@@ -1,0 +1,27 @@
+.header {
+    background-color: #6b5b95;
+  }
+  
+  .sections {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center; 
+  }
+  
+  .column {
+    width: 30%;
+    float: left;
+    height: 150px;
+  }
+  
+  .education {
+    background-color: #ffe6cc;
+  }
+  
+  .experience {  
+    background-color: #d4f0f0;
+  }
+  
+  .skills {
+    background-color: #cce0cc; 
+  }
